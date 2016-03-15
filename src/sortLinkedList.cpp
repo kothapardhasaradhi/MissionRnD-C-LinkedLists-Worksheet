@@ -18,6 +18,7 @@ struct node {
 	struct node *next;
 };
 
-struct node * sortLinkedList(struct node *head) {
+struct node * sortLinkedList(struct node *head) 
+{
 	return NULL;
 }
